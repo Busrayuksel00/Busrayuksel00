@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Büşra YÜKSEL</h1>
-<h3 align="center">I 'm a Computer Programming Student and Jr.Backend Developer</h3>
+<h3 align="center">I 'm a Computer Programming Student and Jr.Developer</h3>
 
-- 🔭 I’m currently working on **Jr.Backend Developer**
+- 🔭 I’m currently working on **Jr.Developer**
 
 - 🌱 I’m currently learning **Asp.net core**
 - 🤗 I love coding and photography.
