@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Büşra YÜKSEL</h1>
-<h3 align="center">I'm a Computer Programming Student and Jr.Developer</h3>
+<h3 align="center">I 'm a Computer Programming Student and Jr.Developer</h3>
 
 - 🔭 I’m currently working on **Jr.Developer**
 
