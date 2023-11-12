@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Jr.Developer**
 
-- 🌱 I’m currently learning **Asp.net core**
+
 - 🤗 I love coding and photography.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
