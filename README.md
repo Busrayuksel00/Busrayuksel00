@@ -2,7 +2,7 @@
 <h3 align="center">I 'm a Computer Programming Student and Jr.Developer</h3>
 
 - 🔭 I’m currently working on **Jr.Developer**
-- 🌱 I'm currently learning **.Net Core**
+- 🌱 I'm currently learning **C#**
 
 - 🤗 I love coding and photography.
 <h3 align="left">Connect with me:</h3>
