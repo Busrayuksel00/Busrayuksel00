@@ -2,8 +2,6 @@
 <h3 align="center">I 'm a Computer Programming Student and Jr.Backend Developer</h3>
 
 - 🔭 I’m currently working on **Jr.Backend Developer**
-- 🌱 I'm currently learning **.Net Core Technology**
-
 - 🤗 I love coding and photography.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
