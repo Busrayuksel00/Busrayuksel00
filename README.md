@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Büşra </h1>
+<marquee behavior="scroll" direction="left" scrollamount="20">Deneme</marquee>
 <h3 align="center">I 'm a Computer Programming Student and Jr.Software Developer</h3>
 
 - 🔭 I’m currently working on **Jr. Software Developer**
