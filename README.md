@@ -3,7 +3,7 @@
 <h3 align="center">I 'm a Computer Programming Student and Jr.Software Developer</h3>
 
 - 🔭 I’m currently working on **Jr. Software Developer**
-
+- 🌱 I'm learning  
 - 🤗 I love coding and photography.
 
   
