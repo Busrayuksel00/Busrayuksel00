@@ -28,8 +28,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=busrayuksel00&" alt="busrayuksel00" /></p>
   
- ![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
+ ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Busrayuksel00&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Busrayuksel00&show_icons=true&theme=radical)
   
  
  
