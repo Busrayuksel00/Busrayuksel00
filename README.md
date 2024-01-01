@@ -23,7 +23,7 @@
 </p>  
   <h3 align=left> ⚙️ Github Analytics 📊 </h3>
 
- ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Busrayuksel00&show_icons=true&theme=gradient) 
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Busrayuksel00&show_icons=true&theme=radical)
   
  
