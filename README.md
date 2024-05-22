@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Busra</h1>
-<h3 align="center">A Software Developer from Turkey</h3>
+<h3 align="center"> Software Developer </h3>
 
 - 🌱 I’m learning Nodejs
 - 🔭 I’m currently working on Javascript
