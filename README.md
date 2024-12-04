@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Busra</h1>
 <h3 align="center"> Software Developer and programming Student </h3>
 
-- 🌱 I’m learning React
+- 🌱 I’m learning React & Nodejs
 - 🔭 I’m currently working on Javascript
 
 
